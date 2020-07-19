@@ -87,6 +87,11 @@ ul.pagination {
 .book-brand {
   color: #16325c;
   margin-top: 0;
+  font-weight: 500;
+
+  a {
+    color: #16325c !important;
+  }
 
   img {
     height: 1.5em;
@@ -109,7 +114,7 @@ ul.pagination {
   }
 
   a {
-    color: inherit;
+    color: #4f6a92;
     word-wrap: break-word;
   }
 
